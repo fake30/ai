@@ -1,0 +1,27 @@
+P1:
+BFS Traversal from  Arad  to  Bucharest  is:
+
+P2:
+#AIM: Implement IDDFS(Iterative Deepening Depth-First Search).
+
+P3:
+#AIM: Implement A* search.
+
+P4:
+#AIM: RBFS(Recursive Breadth First Search)
+
+P5:
+#AIM: Implement Decision-Tree learning algorithm.
+
+P6:
+#AIM: Implement Naive-Bayes learning algo for RWP(Restaurant Waiting Problem).
+
+P7:
+#AIM: Implement feed forward back propagation neural network learning algorithm.
+
+P8:
+#AIM: Implement AdaBoost(Adaptive Boosting) learning algorithm.
+
+P9:
+#AIM: Implement Reinforcement Learning algorithm.
+
